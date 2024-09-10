@@ -1,0 +1,16 @@
+
+Register------- In body>json
+
+{
+    "fullname": "rsaasa",
+    "username": "rsa222",
+    "email": "sai@gmail.com",
+    "password": "hrllo"
+}
+
+
+POST /api/user/login------------ In body>json or formdata
+{
+    "email": "sai@gmail.com",
+    "password": "hrllo"
+}
